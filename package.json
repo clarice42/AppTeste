@@ -9,25 +9,25 @@
   },
   "dependencies": {
     "acorn": "^7.1.1",
-    "axios": "^0.19.0",
+    "axios": "^0.19.2",
     "handlebars": "^4.7.6",
     "kind-of": "^6.0.3",
     "minimist": "^1.2.5",
     "react": "16.8.6",
     "react-native": "^0.62.2",
-    "react-native-gesture-handler": "^1.4.1",
-    "react-native-webview": "^7.0.5",
-    "react-navigation": "^4.0.5",
-    "react-navigation-stack": "^1.7.3"
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-webview": "^7.6.0",
+    "react-navigation": "^4.3.8",
+    "react-navigation-stack": "^1.10.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.6.0",
-    "@babel/runtime": "^7.6.0",
+    "@babel/core": "^7.9.0",
+    "@babel/runtime": "^7.9.2",
     "@react-native-community/eslint-config": "^0.0.5",
     "babel-jest": "^24.9.0",
-    "eslint": "^6.4.0",
+    "eslint": "^6.8.0",
     "jest": "^24.9.0",
-    "metro-react-native-babel-preset": "^0.56.0",
+    "metro-react-native-babel-preset": "^0.56.4",
     "react-test-renderer": "16.8.6"
   },
   "jest": {
